@@ -1,7 +1,7 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Kaleab Gemechu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" alt="coding" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&usqp=CAU"/>
+<img align="right" width="400" alt="coding" src"https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
