@@ -1,8 +1,7 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Kaleab Gemechu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" alt="coding" src"[[https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR](https://giphy.com/gifs/StellarGenetic-bird-owl-white-faced-scops-UDclWKlmfmq7twI3iJ)"](https://media4.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.webp?cid=ecf05e47mqrd9jko43h7f0miytgudcxb1iu5pnrnui75xk7k&ep=v1_gifs_search&rid=giphy.webp&ct=g)/>
-
+<img align="right" width="400" alt="coding" src"https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaleab gemechu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleab gemechu" height="30" width="40" /></a>
