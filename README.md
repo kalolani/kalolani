@@ -1,8 +1,7 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Kaleab Gemechu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" alt="coding" src "(https://github.com/kalolani/kalolani/assets/123155716/86ac1746-90b1-4d55-bc2e-566811a78d6d)
-"/>
+<img align="right" width="400" alt="coding" src "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&usqp=CAU"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaleab gemechu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleab gemechu" height="30" width="40" /></a>
