@@ -1,4 +1,4 @@
-![web dev](https://github.com/kalolani/kalolani/assets/123155716/1477d797-9ca4-4bd2-a7e6-b7f93b8be921)
+
 <h1 align="center">Hi 👋, I'm Kaleab Gemechu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
