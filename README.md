@@ -1,11 +1,42 @@
+# Hi there! 👋 I'm Kaleab Gemechu
 
-<h1 align="center">Hi 👋, I'm Kaleab Gemechu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+Welcome to my GitHub profile! I'm a passionate web developer with experience in building dynamic, responsive web applications. I enjoy working with modern technologies and love creating intuitive user experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaleab gemechu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleab gemechu" height="30" width="40" /></a>
-</p>
+## 🌟 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on: [Your Current Project](#)
+- 🌱 I’m currently learning: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/)
+- 👯 I’m looking to collaborate on: Open-source projects related to web development
+- 💬 Ask me about: Web Development, JavaScript, React, Node.js
+- ⚡ Fun fact: I'm a passionate Manchester United fan! ⚽️ GGMU!💪🏽
+
+
+## 🚀 Skills & Tools
+
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python
+- **Frontend:** React, Tailwind CSS, SASS, Framer Motion
+- **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
+- **Tools:** Git, GitHub, VS Code, Postman, Vercel
+
+
+## 📫 How to Reach Me
+
+- **Email:** [kgemechu908@gmail.com](kgemechu908@gmail.com)
+- **LinkedIn:** [kaleab gemechu](https://www.linkedin.com/in/kaleab-gemechu-456ab9259/)
+- **Portfolio:** [My Portfolio](https://kal-portifolio.vercel.app/)
+- **Twitter:** [kal_olani](https://x.com/kaleab481039)
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalolani&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalolani&layout=compact&theme=radical)
+
+## 💖 Support My Work
+
+If you like my work, please consider [buying me a coffee](https://www.buymeacoffee.com/kalolani) ☕️
+
+---
+
+### Let's connect and create something awesome together!
