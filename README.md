@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 🚀 Skills & Tools
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frontend:** React, Tailwind CSS, SASS, Framer Motion
 - **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
 - **Tools:** Git, GitHub, VS Code, Postman, Vercel
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 📫 How to Reach Me
 
-- **Email:** [kgemechu908@gmail.com](kgemechu908@gmail.com)
+- **Email:** [kgemechu908@gmail.com](mailto:kgemechu908@gmail.com)
 - **LinkedIn:** [kaleab gemechu](https://www.linkedin.com/in/kaleab-gemechu-456ab9259/)
 - **Portfolio:** [My Portfolio](https://kal-portifolio.vercel.app/)
 - **Twitter:** [kal_olani](https://x.com/kaleab481039)
