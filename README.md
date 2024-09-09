@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: [Your Current Project](#)
 - 🌱 I’m currently learning: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/)
 - 👯 I’m looking to collaborate on: Open-source projects related to web development
 - 💬 Ask me about: Web Development, JavaScript, React, Node.js
@@ -28,8 +27,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 
 ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalolani&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalolani&layout=compact&theme=radical)
 
