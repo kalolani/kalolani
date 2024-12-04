@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 - 🌱 I’m currently learning: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/)
 - 👯 I’m looking to collaborate on: Open-source projects related to web development
-- 💬 Ask me about: Web Development, JavaScript, React, Node.js
+- 💬 Ask me about: Web Development, PHP, Laravel, JavaScript, React, Node.js
 - ⚡ Fun fact: I'm a passionate Manchester United fan! ⚽️ GGMU!💪🏽
 
 
