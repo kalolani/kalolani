@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 🚀 Skills & Tools
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Languages:** PHP,JavaScript (ES6+), HTML5, CSS3
 - **Frontend:** React, Tailwind CSS, SASS, Framer Motion
-- **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
+- **Backend:** Laravel, Node.js, Express.js, MongoDB, RESTful APIs
 - **Tools:** Git, GitHub, VS Code, Postman, Vercel
 
 
